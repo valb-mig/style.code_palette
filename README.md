@@ -37,7 +37,6 @@
 </div>
 
 <br>
-<br>
 
 <div align="left">
   <h2 align="left"><b>🧑‍💻 Codes</b></h2>
