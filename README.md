@@ -46,9 +46,9 @@
   <img src="images/colorbar.png" width="250">
 </div>
 
-<details align="center">
-<summary align="center">HEX / RGB - CODE</summary>
-<div align="center">
+<details align="left">
+<summary align="left">HEX / RGB - CODE</summary>
+<div align="left">
 
   ``` black        = #070707 | rgb = (7,7,7) 
   gray_scale_1 = #101010 | rgb = (16,16,16)
