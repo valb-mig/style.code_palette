@@ -8,7 +8,7 @@
   <img src="images/wave.png" width="120" align="left">
 </div>
 
-<h3 align="center"><b>Code Palette</b></h3>
+<h1 align="center"><b>Code Palette</b></h1>
 
 <div align="center">
   <img src="images/codetxt.png" width="900">
