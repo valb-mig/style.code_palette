@@ -16,39 +16,39 @@
 
 <img src="images/codetxt.png" width="540" align="left">
 
-<br>
-
 <div>
 
   <img src="images/dots/cyan.png" width="28"> <b>#71D5C3</b>
-
+  
   <img src="images/dots/green.png" width="28"> <b>#71D5C3</b>
-
+  
   <img src="images/dots/orange.png" width="28"> <b>#71D5C3</b>
-
+  
   <img src="images/dots/pink.png" width="28"> <b>#71D5C3</b>
-
+  
   <img src="images/dots/purple.png" width="28"> <b>#71D5C3</b>
-
+  
   <img src="images/dots/red.png" width="28"> <b>#71D5C3</b>
-
+  
   <img src="images/dots/yellow.png" width="28"> <b>#71D5C3</b>
-
 </div>
 
 <br>
 
-<div align="left">
-  <h2 align="left"><b>🧑‍💻 Codes</b></h2>
+<img src="images/wave.png" width="120" align="left">
+<img src="images/wave_2.png" width="120" align="right">
+
+<div align="center">
+  <h2 align="center"><b>🧑‍💻 Codes</b></h2>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="images/colorbar.png" width="250">
 </div>
 
-<details align="left">
-<summary align="left">⏺ HEX / RGB - CODE</summary>
-<div align="left">
+<details align="center">
+<summary align="center">HEX / RGB - CODE</summary>
+<div align="center">
 
   ``` black        = #070707 | rgb = (7,7,7) 
   gray_scale_1 = #101010 | rgb = (16,16,16)
