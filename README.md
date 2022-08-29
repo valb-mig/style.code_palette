@@ -20,17 +20,17 @@
 
   <img src="images/dots/cyan.png" width="28"> <b>#71D5C3</b>
   
-  <img src="images/dots/green.png" width="28"> <b>#71D5C3</b>
+  <img src="images/dots/green.png" width="28"> <b>#58CC7A</b>
   
-  <img src="images/dots/orange.png" width="28"> <b>#71D5C3</b>
+  <img src="images/dots/orange.png" width="28"> <b>#CF9D71</b>
   
-  <img src="images/dots/pink.png" width="28"> <b>#71D5C3</b>
+  <img src="images/dots/pink.png" width="28"> <b>#B36797</b>
   
-  <img src="images/dots/purple.png" width="28"> <b>#71D5C3</b>
+  <img src="images/dots/purple.png" width="28"> <b>#594BA0</b>
   
-  <img src="images/dots/red.png" width="28"> <b>#71D5C3</b>
+  <img src="images/dots/red.png" width="28"> <b>#CB636A</b>
   
-  <img src="images/dots/yellow.png" width="28"> <b>#71D5C3</b>
+  <img src="images/dots/yellow.png" width="28"> <b>#E2CC86</b>
 </div>
 
 <br>
