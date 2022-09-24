@@ -1,4 +1,6 @@
 black        = #070707 | rgb = (7,7,7) 
+black_1      = #090909 |
+
 gray_scale_1 = #101010 | rgb = (16,16,16)
 gray_scale_2 = #191919 | rgb = (25,25,25) 
 gray_scale_3 = #313131 | rgb = (49,49,49) 
